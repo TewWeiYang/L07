@@ -5,7 +5,7 @@ import Exercise2 from './Exercise2';
 import Exercise3A from "./Exercise3A";
 import Exercise3B from "./Exercise3B";
 import Exercise3C from "./Exercise3C";
-import Exercise3D from "./Exercise3D";
+// import Exercise3D from "./Exercise3D";
 import Exercise3E from "./Exercise3E";
 import Exercise4 from "./Exercise4";
 
